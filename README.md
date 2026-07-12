@@ -121,6 +121,13 @@
 ---
 
 <!-- 08- Estadisticas -->
+
+<div align="center">
+  <img width="50%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrielxxo&hide_border=true&hide_title=true&area=true&radius=10&theme=high-contrast" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrielxxo&stroke=242424&background=121212&ring=cacaca&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=cacaca&sideLabels=cacaca&dates=bababa&hide_border=true" />
 </p>
+
+
