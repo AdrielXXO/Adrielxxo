@@ -44,6 +44,9 @@
 <!-- 05- Enfoque actual -->
 <details open> 
   <summary><h2>ENFOQUE ACTUAL</h2></summary>
+  <div align="center">
+  <img src="./assets/sapsebanner.webp" alt="SAPSE - BANNER" width="100%" />
+</div>
   <img src="https://img.shields.io/badge/S.A.P.S.E-Sistema Automatizado de Personal de Seguridad Especializado-121212?style=for-the-badge" />
 
 | MÓDULO              | DESCRIPCIÓN                                                                                                                | INTEGRACIÓN CON SAP-Control         | PLATAFORMA                                            |
